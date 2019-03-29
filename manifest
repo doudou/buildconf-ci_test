@@ -13,6 +13,7 @@ package_sets:
 # imported by other rock sets.
 layout:
    - base/types
+   - drivers/iodrivers_base
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above
    # - rock.ros
